@@ -69,7 +69,7 @@ print("RMSE= ",rmse)
 ## Output:
 
 ### Dataset:
-![278995575-c7816d33-6dab-45e2-8d19-9a11e9583cb5](https://github.com/Adhithya732/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/162408377/476f7180-40d3-4c65-8ca9-87a83688b174)taset:
+![278995575-c7816d33-6dab-45e2-8d19-9a11e9583cb5](https://github.com/Adhithya732/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/162408377/476f7180-40d3-4c65-8ca9-87a83688b174)
 
 ### Head values:
 ![278996479-7f3d7783-4601-4e70-989f-2ccbf87d0765](https://github.com/Adhithya732/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/162408377/fd4cce78-fb50-48a4-b16f-ce5775a854af)
